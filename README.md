@@ -1,4 +1,4 @@
-# Generic HashMap
+# Wiki Racer in Java
 Creates a ladder between two wiki links.
 
 ## Required Developer Software
